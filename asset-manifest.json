@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Damu-Ingle/Acowale-News/static/css/main.d221dc40.css",
+    "main.js": "/Damu-Ingle/Acowale-News/static/js/main.c8237b25.js",
+    "static/js/453.9fc86e81.chunk.js": "/Damu-Ingle/Acowale-News/static/js/453.9fc86e81.chunk.js",
+    "index.html": "/Damu-Ingle/Acowale-News/index.html",
+    "main.d221dc40.css.map": "/Damu-Ingle/Acowale-News/static/css/main.d221dc40.css.map",
+    "main.c8237b25.js.map": "/Damu-Ingle/Acowale-News/static/js/main.c8237b25.js.map",
+    "453.9fc86e81.chunk.js.map": "/Damu-Ingle/Acowale-News/static/js/453.9fc86e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.c8237b25.js"
+  ]
+}
