@@ -4,7 +4,7 @@ import Header from './components/Header';
 import NewsCards from './components/NewsCards';
 import About from './components/About';
 import NewsContent from './components/NewsContent'; 
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         <Route path="/About" element={<About />} />
         <Route path="/NewsContent/:id" element={<NewsContent />} /> 
       </Routes>
-      <Footer />
+      {/* <Footer /> */}
     </Router>
   );
 }
