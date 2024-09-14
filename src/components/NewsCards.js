@@ -5,9 +5,9 @@ const NewsCards = () => {
   const [articles, setArticles] = useState([]);
 
   const fetchArticle = async () => {
-    const data = await fetch(`https://gnews.io/api/v4/search?q=example&lang=en&country=us&max=10&apikey=${process.env.API_KEY}`)
+    const data = await fetch(`https://gnews.io/api/v4/search?q=example&lang=en&country=us&max=10&apikey=3d3e7289fd2d6b982914c28421ee201c`)
     const response = await data.json()
-    console.log(response.articles)
+    // console.log(response.articles)
 
     setArticles(response.articles)
   }
